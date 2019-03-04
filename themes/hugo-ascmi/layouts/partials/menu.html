@@ -1,0 +1,17 @@
+<nav class="navbar is-transparent">
+    <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <div class="navbar-menu" id="navbarExampleTransparentExample">
+        <div class="navbar-start navbar-center">
+            {{ range .Site.Menus.main }}
+            <a class="navbar-item is-uppercase" href="{{ .URL }}">{{ .Name }}</a>
+            {{end}}
+        </div>
+    </div>
+
+
+</nav>
+<!-- <nav class="navbar-fake"></nav> -->

@@ -1,0 +1,38 @@
+baseURL = "https://ascmi.fr"
+languageCode = "fr-fr"
+title = "ASCMI"
+theme = "hugo-ascmi"
+publishDir = "public"
+
+[params]
+    name = "ASCMI"
+    description = "Association Strasbourgeoise des Cursus Master en Ingénierie"
+    email = "assoascmi@gmail.com"
+    avatar = "images/logo.png"
+    background = "images/sciences.jpg"
+    favicon = "images/gt_favicon.png"
+    DateForm = "2 January 2006"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownload = true
+    showClients = true
+
+    footerEnableContact = true
+    footerEnableFollowme = true
+    footerEnableTextWidget = true
+    footerEnableFormWidget = true
+
+[[menu.main]]
+    name = "accueil"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "actualités"
+    url = "/actu/"
+    weight = 2
+[[menu.main]]
+    name = "cmi"
+    url = "/cmi/"
+    weight = 3

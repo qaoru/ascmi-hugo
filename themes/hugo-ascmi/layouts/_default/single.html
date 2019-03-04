@@ -1,0 +1,23 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+
+<main id="main">
+
+	<div class="container">
+
+		<div class="topspace columns is-centered">
+
+ 				<article class="post column is-two-thirds">
+					<header class="entry-header">
+ 						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
+					</header>
+					<div class="entry-content">
+						{{ .Content }}
+					</div>
+				</article><!-- #post-## -->
+			</div>
+	</div>	<!-- /container -->
+
+</main>
+
+{{ partial "footer.html" . }}

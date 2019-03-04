@@ -1,0 +1,21 @@
+<div class="topspace featured">
+
+  <h2 class="section-title"><span>Services</span></h2>
+
+  <div class="columns">
+    {{ range where .Data.Pages "Section" "service" }}
+    <div class="column is-one-third showcase">
+        <div class="showcase-content">
+          <h3>{{ .Title }}</h3>
+          {{ .Summary }}
+        </div>
+        <div class="showcase-button">
+          <p class="has-text-centered">
+            <a href="{{ .Permalink }}" class="btn btn-action">Read more</a>
+          </p>
+        </div>
+    </div>
+    {{ end }}
+  </div>
+
+</div> <!-- / section -->

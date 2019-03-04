@@ -1,0 +1,19 @@
+{{ if .Site.Params.background }}
+<style>
+	#head {
+		background: #f4f4f4 url('{{ .Site.BaseURL }}{{ .Site.Params.background }}') top center;
+	}
+</style>
+{{ end }}
+<body class="home">
+
+<header id="header">
+	<div id="head" class="parallax" parallax-speed="2">
+		<h1 id="logo" class="text-center">
+			<img class="img-circle" src="{{ .Site.BaseURL }}{{ .Site.Params.avatar }}" alt="">
+		</h1>
+	</div>
+
+    {{ partial "menu.html" . }}
+
+</header>
