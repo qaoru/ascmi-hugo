@@ -15,9 +15,8 @@ publishDir = "public"
 
     showSubheader = true
     showServices = true
-    showRecentWorks = true
-    showDownload = true
-    showClients = true
+    showLastNews = true
+
 
     footerEnableContact = true
     footerEnableFollowme = true

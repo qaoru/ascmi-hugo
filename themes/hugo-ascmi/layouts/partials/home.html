@@ -6,6 +6,10 @@
             {{ partial "subheader.html" . }}
         {{ end }}
 
+        {{ if .Site.Params.showLastNews }}
+            {{ partial "last_news.html" . }}
+        {{ end }}
+
         {{ if .Site.Params.showServices }}
             {{ partial "services.html" . }}
         {{ end }}

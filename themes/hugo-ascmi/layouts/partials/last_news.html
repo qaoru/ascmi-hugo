@@ -1,0 +1,55 @@
+<div class="topspace">
+
+    <h2 class="section-title"><span>Dernières nouvelles</span></h2>
+    {{ $pages := where .Pages "Section" "actu" }}
+    {{ $events := where .Pages "Section" "events" }}
+    <div class="tile is-ancestor">
+      <div class="tile is-parent is-vertical">
+        <div class="tile is-parent">
+          {{ range first 1 $pages }}
+          <div class="tile is-child box">
+            <h2>{{ .Title }}</h2>
+            <p>{{ .Summary }}</p>
+          </div>
+          {{ end }}
+        </div>
+        <div class="tile is-parent">
+          {{ range last 2 (first 3 $pages) }}
+          <div class="tile is-child box">
+            <h2>{{ .Title }}</h2>
+            <p>{{ .Summary | truncate 200 }}</p>
+            {{ if .Truncated }}
+            <p class="more-link">
+              <a href="{{ .Permalink }}">Lire la suite ...</a>
+            </p>
+            {{ end }}
+          </div>
+          {{ end }}
+        </div>
+      </div> <!-- /news tile -->
+      <div class="tile is-parent is-vertical">
+        <div class="tile is-parent">
+          {{ range first 1 $events }}
+          <div class="tile is-child box">
+            <h2>{{ .Title }}</h2>
+            <p>{{ .Summary }}</p>
+          </div>
+          {{ end }}
+        </div>
+        <div class="tile is-parent">
+          {{ range last 2 (first 3 $events) }}
+          <div class="tile is-child box">
+            <h2>{{ .Title }}</h2>
+            <p>{{ .Summary | truncate 200 }}</p>
+            {{ if .Truncated }}
+            <p class="more-link">
+              <a href="{{ .Permalink }}">Lire la suite ...</a>
+            </p>
+            {{ end }}
+          </div>
+          {{ end }}
+        </div>
+      </div><!-- /events tile -->
+    </div> <!-- /ancestor -->
+  
+  </div> <!-- / section -->
