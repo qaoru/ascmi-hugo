@@ -1,4 +1,4 @@
-baseURL = "https://rahveiz.github.io/ascmi-hugo"
+baseURL = "https://rahveiz.github.io/ascmi-hugo/"
 languageCode = "fr-fr"
 title = "ASCMI"
 theme = "hugo-ascmi"
