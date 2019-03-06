@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASCMI</title>
+    <link>https://ascmi.fr/</link>
+    <description>Recent content on ASCMI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 04 Mar 2019 18:10:53 +0100</lastBuildDate>
+    
+	<atom:link href="https://ascmi.fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bureau</title>
+      <link>https://ascmi.fr/actu/bureau/</link>
+      <pubDate>Mon, 04 Mar 2019 18:10:53 +0100</pubDate>
+      
+      <guid>https://ascmi.fr/actu/bureau/</guid>
+      <description>Le nouveau bureau Wolah c&amp;rsquo;est le sang de la veine</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ascmi.fr/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ascmi.fr/subheader/</guid>
+      <description>Bienvenue sur le site de l&amp;rsquo;ASCMI !</description>
+    </item>
+    
+    <item>
+      <title>Des archives numériques</title>
+      <link>https://ascmi.fr/service/documents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ascmi.fr/service/documents/</guid>
+      <description>Pour préparer au mieux les examens, l&amp;rsquo;ASCMI met à disposition gratuitement des archives d&amp;rsquo;anciens contrôles. le tout est disponible au format numérique pour les membres. Toutes les archives sont classées par année d&amp;rsquo;étude et sont évidemment incluses dedans des archives en rapport avec les UE spécifiques de chaque fillière.</description>
+    </item>
+    
+    <item>
+      <title>Des enseignements spécifiques</title>
+      <link>https://ascmi.fr/cmi/ens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ascmi.fr/cmi/ens/</guid>
+      <description>En plus des UE classiques, le CMI comporte des UE d&amp;rsquo;ouverture socio-économique, des enseignements de spécialité en rapport avec le CMI suivi, ainsi que des stages obligatoires tout au long du cursus. Grâce à cela, l&amp;rsquo;étudiant sera au mieux préparé pour l&amp;rsquo;entrée dans le monde professionnel à l&amp;rsquo;issue de son cursus.</description>
+    </item>
+    
+    <item>
+      <title>Des évènements récurrents</title>
+      <link>https://ascmi.fr/service/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ascmi.fr/service/events/</guid>
+      <description>Pic-nics , dîners et afterworks sont organisés par l&amp;rsquo;ASCMI. C&amp;rsquo;est l&amp;rsquo;occasion de passer du bon temps avec des gens sympathiques (sauf le président), de discuter avec les étudiants d&amp;rsquo;autres promotions, et de se détendre après une dure journée de travail (voire d&amp;rsquo;examens !).</description>
+    </item>
+    
+    <item>
+      <title>Un serveur Discord à disposition</title>
+      <link>https://ascmi.fr/service/discord/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ascmi.fr/service/discord/</guid>
+      <description>La communication est un élément essentiel de la vie d&amp;rsquo;une association. Sur le Discord de l&amp;rsquo;ASCMI, on discute de tout et de rien, on partage les bons plans, mais c&amp;rsquo;est également une plateforme d&amp;rsquo;entraide et de travail regroupant toutes les promotions.</description>
+    </item>
+    
+    <item>
+      <title>Une formation complète et exigeante</title>
+      <link>https://ascmi.fr/cmi/formation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ascmi.fr/cmi/formation/</guid>
+      <description>Le CMI est une formation exigeante, comportant environ 20% de cours en supplément à ceux de license et de master. L&amp;rsquo;ensemble des UE de CMI sont architecturées autour de &amp;ldquo;blocs&amp;rdquo; de spécialité, l&amp;rsquo;étudiant devant valider chacun de ces blocs pour passer en année supérieure.</description>
+    </item>
+    
+    <item>
+      <title>Une ouverture à l&#39;étranger</title>
+      <link>https://ascmi.fr/cmi/etranger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ascmi.fr/cmi/etranger/</guid>
+      <description>Au cours du CMI, une mobilité de 3 mois au minimum est imposée.</description>
+    </item>
+    
+  </channel>
+</rss>
