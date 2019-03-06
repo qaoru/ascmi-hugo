@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on ASCMI</title>
+    <link>https://rahveiz.github.io/ascmi-hugo/events/</link>
+    <description>Recent content in Events on ASCMI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 04 Mar 2019 22:49:17 +0100</lastBuildDate>
+    
+	<atom:link href="https://rahveiz.github.io/ascmi-hugo/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diner</title>
+      <link>https://rahveiz.github.io/ascmi-hugo/events/diner/</link>
+      <pubDate>Mon, 04 Mar 2019 22:49:17 +0100</pubDate>
+      
+      <guid>https://rahveiz.github.io/ascmi-hugo/events/diner/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis lacinia sapien. Morbi ultrices faucibus libero, in eleifend purus cursus nec. Integer auctor ipsum sed sem dictum, quis hendrerit sapien euismod. Donec nec mattis libero. Donec ornare molestie risus sit amet pretium. Aliquam posuere ultricies elit pulvinar finibus. Suspendisse hendrerit gravida augue. Fusce sit amet auctor sapien. Phasellus feugiat tristique sem vitae semper. Ut vitae ipsum neque.
+Nulla facilisis diam at urna consequat blandit.</description>
+    </item>
+    
+    <item>
+      <title>Afterwork1</title>
+      <link>https://rahveiz.github.io/ascmi-hugo/events/afterwork1/</link>
+      <pubDate>Mon, 04 Mar 2019 22:49:13 +0100</pubDate>
+      
+      <guid>https://rahveiz.github.io/ascmi-hugo/events/afterwork1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non pretium tortor. Donec vel varius eros. Etiam et enim purus. Nam lobortis rhoncus justo id volutpat. Integer rutrum dignissim nisi eget elementum. Proin gravida pretium felis in tristique. Pellentesque tristique est vel orci vehicula, sit amet efficitur enim lobortis. Vivamus tempor, ligula nec ullamcorper pretium, felis odio hendrerit augue, et eleifend urna odio at nulla. Cras arcu diam, vehicula ac sodales sed, dapibus vitae nunc.</description>
+    </item>
+    
+    <item>
+      <title>Afterwork1</title>
+      <link>https://rahveiz.github.io/ascmi-hugo/events/afterwork2/</link>
+      <pubDate>Mon, 04 Mar 2019 22:49:13 +0100</pubDate>
+      
+      <guid>https://rahveiz.github.io/ascmi-hugo/events/afterwork2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non pretium tortor. Donec vel varius eros. Etiam et enim purus. Nam lobortis rhoncus justo id volutpat. Integer rutrum dignissim nisi eget elementum. Proin gravida pretium felis in tristique. Pellentesque tristique est vel orci vehicula, sit amet efficitur enim lobortis. Vivamus tempor, ligula nec ullamcorper pretium, felis odio hendrerit augue, et eleifend urna odio at nulla. Cras arcu diam, vehicula ac sodales sed, dapibus vitae nunc.</description>
+    </item>
+    
+    <item>
+      <title>Afterwork1</title>
+      <link>https://rahveiz.github.io/ascmi-hugo/events/afterwork3/</link>
+      <pubDate>Mon, 04 Mar 2019 22:49:13 +0100</pubDate>
+      
+      <guid>https://rahveiz.github.io/ascmi-hugo/events/afterwork3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non pretium tortor. Donec vel varius eros. Etiam et enim purus. Nam lobortis rhoncus justo id volutpat. Integer rutrum dignissim nisi eget elementum. Proin gravida pretium felis in tristique. Pellentesque tristique est vel orci vehicula, sit amet efficitur enim lobortis. Vivamus tempor, ligula nec ullamcorper pretium, felis odio hendrerit augue, et eleifend urna odio at nulla. Cras arcu diam, vehicula ac sodales sed, dapibus vitae nunc.</description>
+    </item>
+    
+    <item>
+      <title>Afterwork1</title>
+      <link>https://rahveiz.github.io/ascmi-hugo/events/afterwork4/</link>
+      <pubDate>Mon, 04 Mar 2019 22:49:13 +0100</pubDate>
+      
+      <guid>https://rahveiz.github.io/ascmi-hugo/events/afterwork4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non pretium tortor. Donec vel varius eros. Etiam et enim purus. Nam lobortis rhoncus justo id volutpat. Integer rutrum dignissim nisi eget elementum. Proin gravida pretium felis in tristique. Pellentesque tristique est vel orci vehicula, sit amet efficitur enim lobortis. Vivamus tempor, ligula nec ullamcorper pretium, felis odio hendrerit augue, et eleifend urna odio at nulla. Cras arcu diam, vehicula ac sodales sed, dapibus vitae nunc.</description>
+    </item>
+    
+  </channel>
+</rss>
