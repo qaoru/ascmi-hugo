@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cursus Master en Ingénierie on ASCMI</title>
-    <link>https://rahveiz.github.io/cmi/</link>
+    <link>https://rahveiz.github.io/ascmi-hugo/cmi/</link>
     <description>Recent content in Cursus Master en Ingénierie on ASCMI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="https://rahveiz.github.io/cmi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rahveiz.github.io/ascmi-hugo/cmi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Des enseignements spécifiques</title>
-      <link>https://rahveiz.github.io/cmi/ens/</link>
+      <link>https://rahveiz.github.io/ascmi-hugo/cmi/ens/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rahveiz.github.io/cmi/ens/</guid>
+      <guid>https://rahveiz.github.io/ascmi-hugo/cmi/ens/</guid>
       <description>En plus des UE classiques, le CMI comporte des UE d&amp;rsquo;ouverture socio-économique, des enseignements de spécialité en rapport avec le CMI suivi, ainsi que des stages obligatoires tout au long du cursus. Grâce à cela, l&amp;rsquo;étudiant sera au mieux préparé pour l&amp;rsquo;entrée dans le monde professionnel à l&amp;rsquo;issue de son cursus.</description>
     </item>
     
     <item>
       <title>Une formation complète et exigeante</title>
-      <link>https://rahveiz.github.io/cmi/formation/</link>
+      <link>https://rahveiz.github.io/ascmi-hugo/cmi/formation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rahveiz.github.io/cmi/formation/</guid>
+      <guid>https://rahveiz.github.io/ascmi-hugo/cmi/formation/</guid>
       <description>Le CMI est une formation exigeante, comportant environ 20% de cours en supplément à ceux de license et de master. L&amp;rsquo;ensemble des UE de CMI sont architecturées autour de &amp;ldquo;blocs&amp;rdquo; de spécialité, l&amp;rsquo;étudiant devant valider chacun de ces blocs pour passer en année supérieure.</description>
     </item>
     
     <item>
       <title>Une ouverture à l&#39;étranger</title>
-      <link>https://rahveiz.github.io/cmi/etranger/</link>
+      <link>https://rahveiz.github.io/ascmi-hugo/cmi/etranger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rahveiz.github.io/cmi/etranger/</guid>
+      <guid>https://rahveiz.github.io/ascmi-hugo/cmi/etranger/</guid>
       <description>Au cours du CMI, une mobilité de 3 mois au minimum est imposée.</description>
     </item>
     

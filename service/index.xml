@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on ASCMI</title>
-    <link>https://rahveiz.github.io/service/</link>
+    <link>https://rahveiz.github.io/ascmi-hugo/service/</link>
     <description>Recent content in Services on ASCMI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="https://rahveiz.github.io/service/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rahveiz.github.io/ascmi-hugo/service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Des archives numériques</title>
-      <link>https://rahveiz.github.io/service/documents/</link>
+      <link>https://rahveiz.github.io/ascmi-hugo/service/documents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rahveiz.github.io/service/documents/</guid>
+      <guid>https://rahveiz.github.io/ascmi-hugo/service/documents/</guid>
       <description>Pour préparer au mieux les examens, l&amp;rsquo;ASCMI met à disposition gratuitement des archives d&amp;rsquo;anciens contrôles. le tout est disponible au format numérique pour les membres. Toutes les archives sont classées par année d&amp;rsquo;étude et sont évidemment incluses dedans des archives en rapport avec les UE spécifiques de chaque fillière.</description>
     </item>
     
     <item>
       <title>Des évènements récurrents</title>
-      <link>https://rahveiz.github.io/service/events/</link>
+      <link>https://rahveiz.github.io/ascmi-hugo/service/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rahveiz.github.io/service/events/</guid>
+      <guid>https://rahveiz.github.io/ascmi-hugo/service/events/</guid>
       <description>Pic-nics , dîners et afterworks sont organisés par l&amp;rsquo;ASCMI. C&amp;rsquo;est l&amp;rsquo;occasion de passer du bon temps avec des gens sympathiques (sauf le président), de discuter avec les étudiants d&amp;rsquo;autres promotions, et de se détendre après une dure journée de travail (voire d&amp;rsquo;examens !).</description>
     </item>
     
     <item>
       <title>Un serveur Discord à disposition</title>
-      <link>https://rahveiz.github.io/service/discord/</link>
+      <link>https://rahveiz.github.io/ascmi-hugo/service/discord/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rahveiz.github.io/service/discord/</guid>
+      <guid>https://rahveiz.github.io/ascmi-hugo/service/discord/</guid>
       <description>La communication est un élément essentiel de la vie d&amp;rsquo;une association. Sur le Discord de l&amp;rsquo;ASCMI, on discute de tout et de rien, on partage les bons plans, mais c&amp;rsquo;est également une plateforme d&amp;rsquo;entraide et de travail regroupant toutes les promotions.</description>
     </item>
     

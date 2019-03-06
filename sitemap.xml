@@ -3,66 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rahveiz.github.io/actu/bureau/</loc>
+    <loc>https://rahveiz.github.io/ascmi-hugo/actu/bureau/</loc>
     <lastmod>2019-03-04T18:10:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahveiz.github.io/subheader/</loc>
+    <loc>https://rahveiz.github.io/ascmi-hugo/subheader/</loc>
   </url>
   
   <url>
-    <loc>https://rahveiz.github.io/</loc>
+    <loc>https://rahveiz.github.io/ascmi-hugo/</loc>
     <lastmod>2019-03-04T18:10:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rahveiz.github.io/actu/</loc>
+    <loc>https://rahveiz.github.io/ascmi-hugo/actu/</loc>
     <lastmod>2019-03-04T18:10:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahveiz.github.io/categories/</loc>
+    <loc>https://rahveiz.github.io/ascmi-hugo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rahveiz.github.io/cmi/</loc>
+    <loc>https://rahveiz.github.io/ascmi-hugo/cmi/</loc>
   </url>
   
   <url>
-    <loc>https://rahveiz.github.io/service/documents/</loc>
+    <loc>https://rahveiz.github.io/ascmi-hugo/service/documents/</loc>
   </url>
   
   <url>
-    <loc>https://rahveiz.github.io/cmi/ens/</loc>
+    <loc>https://rahveiz.github.io/ascmi-hugo/cmi/ens/</loc>
   </url>
   
   <url>
-    <loc>https://rahveiz.github.io/service/events/</loc>
+    <loc>https://rahveiz.github.io/ascmi-hugo/service/events/</loc>
   </url>
   
   <url>
-    <loc>https://rahveiz.github.io/service/</loc>
+    <loc>https://rahveiz.github.io/ascmi-hugo/service/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rahveiz.github.io/tags/</loc>
+    <loc>https://rahveiz.github.io/ascmi-hugo/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rahveiz.github.io/service/discord/</loc>
+    <loc>https://rahveiz.github.io/ascmi-hugo/service/discord/</loc>
   </url>
   
   <url>
-    <loc>https://rahveiz.github.io/cmi/formation/</loc>
+    <loc>https://rahveiz.github.io/ascmi-hugo/cmi/formation/</loc>
   </url>
   
   <url>
-    <loc>https://rahveiz.github.io/cmi/etranger/</loc>
+    <loc>https://rahveiz.github.io/ascmi-hugo/cmi/etranger/</loc>
   </url>
   
 </urlset>

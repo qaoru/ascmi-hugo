@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Actualités on ASCMI</title>
-    <link>https://rahveiz.github.io/actu/</link>
+    <link>https://rahveiz.github.io/ascmi-hugo/actu/</link>
     <description>Recent content in Actualités on ASCMI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 04 Mar 2019 18:10:53 +0100</lastBuildDate>
     
-	<atom:link href="https://rahveiz.github.io/actu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rahveiz.github.io/ascmi-hugo/actu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bureau</title>
-      <link>https://rahveiz.github.io/actu/bureau/</link>
+      <link>https://rahveiz.github.io/ascmi-hugo/actu/bureau/</link>
       <pubDate>Mon, 04 Mar 2019 18:10:53 +0100</pubDate>
       
-      <guid>https://rahveiz.github.io/actu/bureau/</guid>
+      <guid>https://rahveiz.github.io/ascmi-hugo/actu/bureau/</guid>
       <description>Le nouveau bureau Wolah c&amp;rsquo;est le sang de la veine</description>
     </item>
     
