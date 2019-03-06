@@ -1,4 +1,4 @@
-baseURL = "https://rahveiz.github.io/"
+baseURL = "https://rahveiz.github.io/ascmi-hugo"
 languageCode = "fr-fr"
 title = "ASCMI"
 theme = "hugo-ascmi"
@@ -17,12 +17,6 @@ publishDir = "public"
     showServices = true
     showLastNews = true
 
-
-    footerEnableContact = true
-    footerEnableFollowme = true
-    footerEnableTextWidget = true
-    footerEnableFormWidget = true
-
 [[menu.main]]
     name = "accueil"
     url = "/"
@@ -32,6 +26,10 @@ publishDir = "public"
     url = "/actu/"
     weight = 2
 [[menu.main]]
+    name = "events"
+    url = "/events/"
+    weight = 3
+[[menu.main]]
     name = "cmi"
     url = "/cmi/"
-    weight = 3
+    weight = 4
