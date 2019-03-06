@@ -1,0 +1,18 @@
+# Install hugo
+install:
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.54.0/hugo_0.54.0_Linux-64bit.deb -O /tmp/hugo.deb && sudo dpkg -i /tmp/hugo.deb
+  - rm -rf public || exit 0
+
+# Build the website
+script:
+  - hugo -v
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  committer-from-gh: true
+  local-dir: public
+  on:
+    branch: master

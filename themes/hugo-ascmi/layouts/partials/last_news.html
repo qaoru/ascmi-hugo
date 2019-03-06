@@ -13,19 +13,6 @@
           </div>
           {{ end }}
         </div>
-        <div class="tile is-parent">
-          {{ range last 2 (first 3 $pages) }}
-          <div class="tile is-child box">
-            <h2>{{ .Title }}</h2>
-            <p>{{ .Summary | truncate 200 }}</p>
-            {{ if .Truncated }}
-            <p class="more-link">
-              <a href="{{ .Permalink }}">Lire la suite ...</a>
-            </p>
-            {{ end }}
-          </div>
-          {{ end }}
-        </div>
       </div> <!-- /news tile -->
       <div class="tile is-parent is-vertical">
         <div class="tile is-parent">
@@ -33,19 +20,6 @@
           <div class="tile is-child box">
             <h2>{{ .Title }}</h2>
             <p>{{ .Summary }}</p>
-          </div>
-          {{ end }}
-        </div>
-        <div class="tile is-parent">
-          {{ range last 2 (first 3 $events) }}
-          <div class="tile is-child box">
-            <h2>{{ .Title }}</h2>
-            <p>{{ .Summary | truncate 200 }}</p>
-            {{ if .Truncated }}
-            <p class="more-link">
-              <a href="{{ .Permalink }}">Lire la suite ...</a>
-            </p>
-            {{ end }}
           </div>
           {{ end }}
         </div>
