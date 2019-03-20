@@ -6,10 +6,21 @@
     <description>Recent content on ASCMI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 04 Mar 2019 22:49:17 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2019 08:57:53 +0100</lastBuildDate>
     
 	<atom:link href="https://rahveiz.github.io/ascmi-hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>test netlify</title>
+      <link>https://rahveiz.github.io/ascmi-hugo/actu/test-netlify/</link>
+      <pubDate>Wed, 20 Mar 2019 08:57:53 +0100</pubDate>
+      
+      <guid>https://rahveiz.github.io/ascmi-hugo/actu/test-netlify/</guid>
+      <description>oui
+let foo = 5;   ezrezrezrzer
+ </description>
+    </item>
     
     <item>
       <title>Diner</title>

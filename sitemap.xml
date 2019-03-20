@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rahveiz.github.io/ascmi-hugo/actu/test-netlify/</loc>
+    <lastmod>2019-03-20T08:57:53+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rahveiz.github.io/ascmi-hugo/events/diner/</loc>
     <lastmod>2019-03-04T22:49:17+01:00</lastmod>
   </url>
@@ -78,13 +83,13 @@
   
   <url>
     <loc>https://rahveiz.github.io/ascmi-hugo/</loc>
-    <lastmod>2019-03-04T22:49:17+01:00</lastmod>
+    <lastmod>2019-03-20T08:57:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rahveiz.github.io/ascmi-hugo/actu/</loc>
-    <lastmod>2019-03-04T22:35:13+01:00</lastmod>
+    <lastmod>2019-03-20T08:57:53+01:00</lastmod>
   </url>
   
   <url>
