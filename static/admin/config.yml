@@ -28,3 +28,25 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
+
+- name: "actu"
+    label: "Actualités"
+    folder: "content/actu"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+      - label: "Author"
+        name: "author"
+        widget: "string"
+
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
