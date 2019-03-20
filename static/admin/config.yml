@@ -16,7 +16,7 @@ collections:
         name: "title"
         widget: "string"
 
-      - label: "Author":
+      - label: "Author"
         name: "author"
         widget: "string"
 
