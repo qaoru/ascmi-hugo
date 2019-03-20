@@ -17,4 +17,6 @@ deploy:
   committer-from-gh: true
   local-dir: public
   on:
-    branch: master
+    branch:
+      - master
+      - netlify
