@@ -6,21 +6,10 @@
     <description>Recent content on ASCMI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 20 Mar 2019 08:57:53 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2019 22:49:17 +0100</lastBuildDate>
     
 	<atom:link href="https://rahveiz.github.io/ascmi-hugo/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>test netlify</title>
-      <link>https://rahveiz.github.io/ascmi-hugo/actu/test-netlify/</link>
-      <pubDate>Wed, 20 Mar 2019 08:57:53 +0100</pubDate>
-      
-      <guid>https://rahveiz.github.io/ascmi-hugo/actu/test-netlify/</guid>
-      <description>oui
-let foo = 5;   ezrezrezrzer
- </description>
-    </item>
     
     <item>
       <title>Diner</title>
@@ -147,6 +136,16 @@ Nulla facilisis diam at urna consequat blandit.</description>
       
       <guid>https://rahveiz.github.io/ascmi-hugo/actu/bureau/</guid>
       <description>Le nouveau bureau Wolah c&amp;rsquo;est le sang de la veine</description>
+    </item>
+    
+    <item>
+      <title>Réunion de Comité du 28 Février 2018</title>
+      <link>https://rahveiz.github.io/ascmi-hugo/documents/pv1/</link>
+      <pubDate>Thu, 28 Feb 2019 17:08:04 +0100</pubDate>
+      
+      <guid>https://rahveiz.github.io/ascmi-hugo/documents/pv1/</guid>
+      <description>Tour de table La réunion se commence par la présentation de toutes les personnes présentes. Elles précisent leur nom, leur année d&amp;rsquo;étude, leur cursus, ainsi que leur rôle dans l&amp;rsquo;association si elles en ont un.
+Nomination des chargés de mission Louis Lambrecht et Quentin Wendling sont nommés chargés de mission &amp;ldquo;Anciens&amp;rdquo; par le président, afin de commencer à préparer un réseau d&amp;rsquo;anciens, les premières promotions CMI diplômées arrivant cette année.</description>
     </item>
     
     <item>

@@ -692,46 +692,16 @@ footer.entry-meta .meta-in {
 
 
 **********************************************************************/
-#footer {
-  background: #232323;
-  padding: 30px 0 0 0;
-  font-size: 12px;
-  color: #999;
+footer {
+  margin-top: 2em;
 }
-#footer a {
-  color: #ccc;
+footer a {
+  color: violet;
+  font-weight: bold;
+  font-size: 1.1em;
 }
-#footer a:hover {
-  color: #fff;
-}
-#footer h3.widget-title {
-  font-size: 15px;
-  font-size: 0.9375rem;
-  text-transform: uppercase;
-  color: #ccc;
-  margin: 0 0 20px;
-}
-#underfooter {
-  background: #191919;
-  padding: 15px 0;
-  color: #777;
-  font-size: 12px;
-}
-#underfooter a {
-  color: #aaa;
-}
-#underfooter a:hover {
-  color: #fff;
-}
-#underfooter p {
-  margin: 0;
-}
-.follow-me-icons {
-  font-size: 30px;
-}
-.follow-me-icons i {
-  padding: 15px 0;
-  margin: 0 10px 0 0;
+footer a:hover, footer a:focus {
+  text-decoration: underline;
 }
 /* Max page width
 /////////////////////////////////////////////////////////////////////*/
@@ -746,4 +716,37 @@ footer.entry-meta .meta-in {
 
 .box.spaced {
   margin: 0.75em;
+}
+
+/* Slick Tweaks */
+.slick-prev::before,
+.slick-next::before {
+  color: black !important;
+}
+
+#gallery {
+  width: 75%;
+  margin: auto;
+}
+#gallery .gallery-item {
+  position: relative;
+}
+#gallery .gallery-item img {
+  max-height: 450px;
+  margin: auto;
+}
+#gallery .gallery-item .gallery-caption {
+  position: absolute;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.3em;
+  bottom: 0;
+  height: 50px;
+  width: 100%;
+  text-align: center;
+}
+#gallery .gallery-item .gallery-caption.caption-background {
+  color: black;
+  background-color: rgba(255, 255, 255, 0.4);
 }

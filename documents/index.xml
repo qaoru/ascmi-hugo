@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documents on ASCMI</title>
+    <link>https://rahveiz.github.io/ascmi-hugo/documents/</link>
+    <description>Recent content in Documents on ASCMI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 28 Feb 2019 17:08:04 +0100</lastBuildDate>
+    
+	<atom:link href="https://rahveiz.github.io/ascmi-hugo/documents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Réunion de Comité du 28 Février 2018</title>
+      <link>https://rahveiz.github.io/ascmi-hugo/documents/pv1/</link>
+      <pubDate>Thu, 28 Feb 2019 17:08:04 +0100</pubDate>
+      
+      <guid>https://rahveiz.github.io/ascmi-hugo/documents/pv1/</guid>
+      <description>Tour de table La réunion se commence par la présentation de toutes les personnes présentes. Elles précisent leur nom, leur année d&amp;rsquo;étude, leur cursus, ainsi que leur rôle dans l&amp;rsquo;association si elles en ont un.
+Nomination des chargés de mission Louis Lambrecht et Quentin Wendling sont nommés chargés de mission &amp;ldquo;Anciens&amp;rdquo; par le président, afin de commencer à préparer un réseau d&amp;rsquo;anciens, les premières promotions CMI diplômées arrivant cette année.</description>
+    </item>
+    
+  </channel>
+</rss>
