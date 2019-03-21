@@ -1,0 +1,21 @@
+pics:
+  - src: "images/photos/aw-1.jpg"
+    alt: "afterwork1"
+    caption:
+      - content: "Afterwork n°1"
+        background: false
+  - src: "images/photos/bbq-1.jpg"
+    alt: "bbq1"
+    caption:
+      - content: "Barbecue de rentrée"
+        background: true
+  - src: "images/photos/ndli-1.jpg"
+    alt: "ndli1"
+    caption:
+      - content: "Nuit de l'Info 2017"
+        background: true
+  - src: "images/photos/ndli-2.jpg"
+    alt: "ndli2"
+    caption:
+      - content: "Nuit de l'Info 2017"
+        background: true

@@ -3,15 +3,19 @@
 	<div class="container">
 
         {{ if .Site.Params.showSubheader }}
-            {{ partial "subheader.html" . }}
+          {{ partial "subheader.html" . }}
         {{ end }}
 
         {{ if .Site.Params.showLastNews }}
-            {{ partial "last_news.html" . }}
+          {{ partial "last_news.html" . }}
         {{ end }}
 
         {{ if .Site.Params.showServices }}
-            {{ partial "services.html" . }}
+          {{ partial "services.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.showGallery }}
+          {{ partial "gallery.html" . }}
         {{ end }}
 
 	</div>	<!-- /container -->

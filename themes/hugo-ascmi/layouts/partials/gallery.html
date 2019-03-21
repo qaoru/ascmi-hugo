@@ -1,0 +1,24 @@
+<div class="topspace">
+  <h2 class="section-title"><span>Quelques souvenirs</span></h2>
+
+  <div id="gallery">
+    {{ range .Site.Data.homegallery.pics }}
+      <div class="gallery-item">
+        <img src="{{ .src }}" alt=" {{ .alt }}">
+        {{ range .caption }}
+          <span class="gallery-caption {{ if .background }}caption-background{{ end }}">
+            {{ .content }}
+          </span>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+  <script type="text/javascript">
+    $(function () {
+      $("#gallery").slick({
+        autoplay: true,
+        autoplaySpeed: 2000
+      });
+    });
+  </script>
+</div>

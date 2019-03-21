@@ -16,6 +16,7 @@ publishDir = "public"
     showSubheader = true
     showServices = true
     showLastNews = true
+    showGallery = true
 
 [[menu.main]]
     name = "accueil"
@@ -33,3 +34,7 @@ publishDir = "public"
     name = "cmi"
     url = "/cmi/"
     weight = 4
+[[menu.main]]
+    name = "documents"
+    url = "/documents/"
+    weight = 5
