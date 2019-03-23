@@ -38,3 +38,7 @@ publishDir = "public"
     name = "documents"
     url = "/documents/"
     weight = 5
+[[menu.main]]
+    name = "seafile"
+    url = "https://cloud.ascmi.u-strasbg.fr/"
+    weight = 6
